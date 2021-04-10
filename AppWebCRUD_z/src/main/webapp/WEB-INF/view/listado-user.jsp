@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>listado de usuarios registrados</title>
 </head>
 <body>
   <h2>listado de usuarios</h2>
