@@ -21,7 +21,7 @@
 		<div class="row">
   
 			  	<table class="table">
-			  	<tr class="table-warning">
+			  	<tr class="table-warning ">
 			  		<th>nombre</th>
 			  		<th>apellido</th>
 			  		<th>email</th>
